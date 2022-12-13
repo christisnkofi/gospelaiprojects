@@ -1,4 +1,4 @@
-# gospelaiprojects
+# GospelAI projects
 Shopping app
 A new Flutter project.
 
